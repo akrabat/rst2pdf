@@ -26,7 +26,7 @@ docutils==0.17.1
     # via
     #   rst2pdf (setup.py)
     #   sphinx
-fonttools==4.28.3
+fonttools==4.37.2
     # via matplotlib
 future==0.18.2
     # via arabic-reshaper
