@@ -52,7 +52,7 @@ lxml==4.6.5
     # via svglib
 markupsafe==2.0.1
     # via jinja2
-matplotlib==3.5.1
+matplotlib==3.6.0
     # via rst2pdf (setup.py)
 numpy==1.21.4
     # via matplotlib
